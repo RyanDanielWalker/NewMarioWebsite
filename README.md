@@ -5,7 +5,7 @@ An updated website to honor the greatest cat that ever lived.
 * HTML
 * CSS
 ## Description
-This website allows users to view all of the things that make my late cat, Mario, great. 
+This website allows users to view all of the things that made my late cat, Mario, great. 
 ## Known Bugs
 Still, I never knew Mario to have any bugs.
 ## License

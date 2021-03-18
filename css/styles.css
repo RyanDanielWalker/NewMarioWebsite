@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(88, 55, 55);
+}
+
+.header {
+  text-decoration: underline;
+  margin-top: 15vh;
+  font-size: 28px;
+  text-align: center;
+  color: orange;
+  font-style: bold;
+
+}
+
+.p1 {
+  text-align: center;
+  font-size:22px;
+  color: rgb(206, 197, 71);
+  font-style: unset;
+}
+
+.box {
+  font-size: 18px; 
+  font-weight:400; 
+  font-style:oblique;
+  font-family:sans-serif;
+  float: middle; 
+  text-align: center;
+  width: 50%;
+  border: solid black;
+  border-width: 5px;
+  background-color: orange;
+  margin: auto;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  padding: 2px;
+}
+
+
